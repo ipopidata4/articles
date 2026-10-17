@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Article submission platform CMS ipopi
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+https://ipopi.in
